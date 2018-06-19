@@ -1,0 +1,22 @@
+npm i webpack --save-dev
+npm i webpack-cli -D
+npm i webpack-dev-server -D
+npm i babel-core babel-loader babel-preset-env babel-preset-stage-3 -D
+npm i style-loader css-loader -D
+npm i bootstrap -D
+npm i extract-text-webpack-plugin@next -D
+
+npm i react react-dom redux react-redux --save
+
+webpack extract text plugin
+
+
+npm run build
+npm run dev
+
+git clone https://github.com/protows/redux2.git
+git status
+git add index.html
+git add -A
+git commit -m "first commit"
+git push
