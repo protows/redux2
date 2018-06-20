@@ -5,6 +5,7 @@ npm i babel-core babel-loader babel-preset-env babel-preset-stage-3 -D
 npm i style-loader css-loader -D
 npm i bootstrap -D
 npm i extract-text-webpack-plugin@next -D
+npm i babel-preset-react -D
 
 npm i react react-dom redux react-redux --save
 
@@ -20,3 +21,6 @@ git add index.html
 git add -A
 git commit -m "first commit"
 git push
+
+
+добавить папку в gitignore - https://tyapk.ru/blog/post/gitignore
