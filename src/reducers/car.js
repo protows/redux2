@@ -6,7 +6,7 @@ export default function (){
       speed: 234.45,
       weight: 1.4,
       desc: "R8 это замечательынй авто",
-      img: "https://s3-ap-southeast-1.amazonaws.com/caarlyd/img/236482-small.png"
+      img: "https://drive-my.com/media/com_easysocial/photos/1045/6628/2003-audi-c5_thumbnail.jpg"
     },
     {
       id: 2,
